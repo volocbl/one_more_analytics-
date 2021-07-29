@@ -21,7 +21,7 @@
 - sklearn (StandardScaler, train_test_split, LogisticRegression, RandomForestClassifier, accuracy_score, precision_score, recall_score, f1_score, KMeans, silhouette_score);
 - dendrogram, linkage from scipy. 
 
-# Содержание:
+## Содержание:
 Первичный анализ и подготовка данных
 1. Загрузка и изучение информации о данных;
 2. Проверка данных на наличие в них пропусков и дубликатов;
