@@ -7,7 +7,7 @@
 ## Основные выводы собраны в презентации:
 https://drive.google.com/file/d/1TmF2YI8QXpXXoC1txq7Cd3gxR2Sh0FE1/view?usp=sharing
 
-В работе использовались следующие библиотеки:
+## В работе использовались следующие библиотеки:
 - pandas;
 - numpy;
 - stats from scipy;
