@@ -36,7 +36,7 @@
 11. [***e_com***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_11_e_com)
       1. Сегментируем товарный ассортимент и выделяем группы основных и дополнительных товаров, которые можно предлагать к покупке в паре.
       2. Используем pandas, numpy, stats from scipy, datetime, date from datetime, Mystem from pymystem3, matplotlib.pyplot, plotly.express, plotly.graph_objects, seaborn.
-12. [***ab_tests (2)***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_12_ab_tests (2))
+12. [***ab_tests (2)***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_12_ab_tests%20(2))
       1. Тестируем изменения, связанные с внедрением улучшенной рекомендательной системы с помощью анализа А/В-теста.
       2. Используем pandas, numpy, stats from scipy, datetime, date from datetime, math, matplotlib.pyplot, plotly.express, graph_objects from plotly, seaborn.
 13. [***sql***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_13_sql)
