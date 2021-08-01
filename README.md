@@ -24,7 +24,7 @@
 7. [***cafe_msk***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_7_cafe_msk)
       1. Определяем наиоблее успешный формат для открытия заведеня общественного питания в Москве.
       2. Использовали pandas, scipy.stats, datetime, numpy, matplotlib.pyplot, seaborn, plotly.expressl, re, requests.
-8. [***ab_tests (1)***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_8_ab_tests (1))
+8. [***ab_tests (1)***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_8_ab_tests%20(1))
       1. Исследуем изменения шрифтов в мобильном приложении с помощью анализа А/В тестов.
       2. Используем pandas, scipy.stats, datetime, numpy, matplotlib.pyplot, math, plotly.express.
 9. [***automation***.](https://github.com/volocbl/one_more_analytics-/tree/main/project_9_automation)
