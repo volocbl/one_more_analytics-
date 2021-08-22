@@ -19,4 +19,4 @@
 3. Как соотносятся темы карточек и темы источников?
 
 ## Ссылка на дашборд:
-https://public.tableau.com/profile/ilia3407#!/vizhome/Zen_dash/_?publish=yes
+https://public.tableau.com/app/profile/ilia3407/viz/Zen_dash2/_
